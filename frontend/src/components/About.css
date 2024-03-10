@@ -1,0 +1,52 @@
+.about-container {
+  background-color: #f8f8f8;
+  padding: 60px 0;
+}
+
+.about-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.about-title {
+  font-size: 36px;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.about-subtitle {
+  font-size: 24px;
+  font-weight: 500;
+  color: #333;
+  margin: 40px 0 20px;
+}
+
+.about-content p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.about-content ul {
+  margin-bottom: 20px;
+}
+
+.about-content ul li {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.contact-info {
+  margin-top: 40px;
+  border-top: 1px solid #ddd;
+  padding-top: 40px;
+}
+
+.contact-info p {
+  margin-bottom: 20px;
+}
