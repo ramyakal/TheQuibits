@@ -24,5 +24,5 @@ Dataset links:
 2. CICIDS2017: https://www.kaggle.com/datasets/cicdataset/cicids2017/data
 
 ### Solution offered:
-To identify the ransomware and zero-day attacks, we have created a UI interface in which the we are required to upload the network traffic files in case of 
+To detect ransomware and zero-day attacks, we've developed a UI where users upload network traffic files for analysis. The backend model evaluates the uploaded .csv file and indicates whether an attack has occurred or not.
 
